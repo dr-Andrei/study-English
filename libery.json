@@ -1,0 +1,66 @@
+[
+    {
+        "inEnglish": "winter",
+        "translate": "зима"
+    },
+    {
+        "inEnglish": "summer",
+        "translate": "лето"
+    },
+    {
+        "inEnglish": "autumn",
+        "translate": "осень"
+    },
+    {
+        "inEnglish": "spring",
+        "translate": "весна"
+    },
+    {
+        "inEnglish": "car",
+        "translate": "машина"
+    },
+    {
+        "inEnglish": "as",
+        "translate": "как"
+    },
+    {
+        "inEnglish": "they",
+        "translate": "они"
+    },
+    {
+        "inEnglish": "can",
+        "translate": "может"
+    },
+    {
+        "inEnglish": "which",
+        "translate": "который"
+    },
+    {
+        "inEnglish": "said",
+        "translate": "говорить"
+    },
+    {
+        "inEnglish": "also",
+        "translate": "также"
+    },
+    {
+        "inEnglish": "land",
+        "translate": "земля"
+    },
+    {
+        "inEnglish": "follow",
+        "translate": "следовать"
+    },
+    {
+        "inEnglish": "near",
+        "translate": "близко"
+    },
+    {
+        "inEnglish": "take",
+        "translate": "брать"
+    },
+    {
+        "inEnglish": "get",
+        "translate": "получать"
+    }
+]

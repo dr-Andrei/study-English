@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "inEnglish": "I work",
+        "translate": "Я работаю"
+    },
+    {
+        "id": 2,
+        "inEnglish": "We work",
+        "translate": "Мы работаем"
+    },
+    {
+        "id": 3,
+        "inEnglish": "You work",
+        "translate": "Ты работаешь"
+    },
+    {
+        "id": 4,
+        "inEnglish": "They work",
+        "translate": "Они работают"
+    },
+    {
+        "id": 5,
+        "inEnglish": "I work here",
+        "translate": "Я работаю здесь"
+    },
+    {
+        "id": 6,
+        "inEnglish": "I study",
+        "translate": "Я учусь"
+    },
+    {
+        "id": 7,
+        "inEnglish": "I understand",
+        "translate": "Я понимаю"
+    },
+    {
+        "id": 8,
+        "inEnglish": "I understand you",
+        "translate": "Я понимаю тебя"
+    },
+    {
+        "id": 9,
+        "inEnglish": "I know it",
+        "translate": "Я знаю это"
+    },
+    {
+        "id": 10,
+        "inEnglish": "I know it very well",
+        "translate": "Я знаю это очень хорошо"
+    },
+    {
+        "id": 11,
+        "inEnglish": "I live in Russia",
+        "translate": "Я живу в России"
+    },
+    {
+        "id": 12,
+        "inEnglish": "I speak English",
+        "translate": "Я говорю по английски"
+    },
+    {
+        "id": 13,
+        "inEnglish": "I go to school",
+        "translate": "Я хожу в школу"
+    },
+    {
+        "id": 14,
+        "inEnglish": "I go to work",
+        "translate": "Я хожу на работу"
+    },
+    {
+        "id": 15,
+        "inEnglish": "I have a brother",
+        "translate": "У меня есть брат"
+    },
+    {
+        "id": 16,
+        "inEnglish": "I have an idea",
+        "translate": "У меня есть идея"
+    },
+    {
+        "id": 17,
+        "inEnglish": "I have a sister",
+        "translate": "У меня есть сестра"
+    },
+    {
+        "id": 18,
+        "inEnglish": "I have a car",
+        "translate": "У меня есть машина"
+    },
+    {
+        "id": 19,
+        "inEnglish": "I think so",
+        "translate": "Я думаю так"
+    },
+    {
+        "id": 20,
+        "inEnglish": "I see it",
+        "translate": "Я вижу это"
+    },
+    {
+        "id": 21,
+        "inEnglish": "I want it",
+        "translate": "Я хочу это"
+    },
+    {
+        "id": 22,
+        "inEnglish": "I remember it",
+        "translate": "Я помню это"
+    },
+    {
+        "id": 23,
+        "inEnglish": "I remember it very well",
+        "translate": "Я помню это очень хорошо"
+    },
+    {
+        "id": 24,
+        "inEnglish": "We understand you",
+        "translate": "Мы понимаем тебя"
+    },
+    {
+        "id": 25,
+        "inEnglish": "We speak English",
+        "translate": "Мы говорим по английски"
+    },
+    {
+        "id": 26,
+        "inEnglish": "You know it",
+        "translate": "Ты знаешь это"
+    },
+    {
+        "id": 27,
+        "inEnglish": "You see it",
+        "translate": "Ты видишь это"
+    },
+    {
+        "id": 28,
+        "inEnglish": "They help me",
+        "translate": "Они помогают мне"
+    },
+    {
+        "id": 29,
+        "inEnglish": "They go to work",
+        "translate": "Они ходят на работу"
+    },
+    {
+        "id": 30,
+        "inEnglish": "We remember it",
+        "translate": "Мы помним это"
+    }
+]

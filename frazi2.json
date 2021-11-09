@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "inEnglish": "I love you",
+        "translate": "Я люблю тебя"
+    },
+    {
+        "id": 2,
+        "inEnglish": "We want it",
+        "translate": "Мы хотим это"
+    },
+    {
+        "id": 3,
+        "inEnglish": "You work very hard",
+        "translate": "Ты работаешь очень усердно"
+    },
+    {
+        "id": 4,
+        "inEnglish": "They study very hard",
+        "translate": "Они учатся очень усердно"
+    },
+    {
+        "id": 5,
+        "inEnglish": "He lives there",
+        "translate": "Он живёт там"
+    },
+    {
+        "id": 6,
+        "inEnglish": "She feels happy",
+        "translate": "Она чувствует себя счастливой"
+    },
+    {
+        "id": 7,
+        "inEnglish": "I feel happy",
+        "translate": "Я чувствую себя счастливым"
+    },
+    {
+        "id": 8,
+        "inEnglish": "It helps me",
+        "translate": "Это помогает мне"
+    },
+    {
+        "id": 9,
+        "inEnglish": "He also works here",
+        "translate": "Он также работает здесь"
+    },
+    {
+        "id": 10,
+        "inEnglish": "He thinks so",
+        "translate": "Он думает так"
+    },
+    {
+        "id": 11,
+        "inEnglish": "He lives in this house",
+        "translate": "Он живёт в этом доме"
+    },
+    {
+        "id": 12,
+        "inEnglish": "She remembers it",
+        "translate": "Она помнит это"
+    },
+    {
+        "id": 13,
+        "inEnglish": "She lives in this place",
+        "translate": "Она живёт в этом месте"
+    },
+    {
+        "id": 14,
+        "inEnglish": "She lives in that place",
+        "translate": "Она живёт в том месте"
+    },
+    {
+        "id": 15,
+        "inEnglish": "She speaks English very well",
+        "translate": "Она говорит по английски очень хорошо"
+    },
+    {
+        "id": 16,
+        "inEnglish": "It really helps me",
+        "translate": "Это реально помогает мне"
+    },
+    {
+        "id": 17,
+        "inEnglish": "It looks interesting",
+        "translate": "Это выглядит интересным"
+    },
+    {
+        "id": 18,
+        "inEnglish": "It seems interesting",
+        "translate": "Это кажется интересным"
+    },
+    {
+        "id": 19,
+        "inEnglish": "He reads in English",
+        "translate": "Он читает на английском"
+    },
+    {
+        "id": 20,
+        "inEnglish": "She reads English books",
+        "translate": "Она читает английские книги"
+    },
+    {
+        "id": 21,
+        "inEnglish": "It looks strange",
+        "translate": "Это выглядит странно"
+    },
+    {
+        "id": 22,
+        "inEnglish": "He knows it",
+        "translate": "Он знает это"
+    },
+    {
+        "id": 23,
+        "inEnglish": "She sees this mistake",
+        "translate": "Она видит эту ошибку"
+    },
+    {
+        "id": 24,
+        "inEnglish": "He sees that mistake",
+        "translate": "Он видит ту ошибку"
+    },
+    {
+        "id": 25,
+        "inEnglish": "It happens",
+        "translate": "Это происходит"
+    },
+    {
+        "id": 26,
+        "inEnglish": "He wants more",
+        "translate": "Он хочет большего"
+    },
+    {
+        "id": 27,
+        "inEnglish": "You see it",
+        "translate": "Ты видишь это"
+    },
+    {
+        "id": 28,
+        "inEnglish": "She wants more practice",
+        "translate": "Она хочет больше практики"
+    },
+    {
+        "id": 29,
+        "inEnglish": "It really happens",
+        "translate": "Это действительно происходит"
+    }
+]
