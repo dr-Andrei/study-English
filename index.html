@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Изучение английского</title>
+    <link rel="stylesheet" href="bootstrap-4.5.3/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class='all'></div>
+    <hr>
+
+    <div class="container text-center mb-5 mt-2">
+        <h1>Изучите английский!</h1>
+    </div>
+    <div class="container mt-3 text-center">
+        Выберите загружаемый файл:
+        <div class="row">
+            <div class="col">
+                <div class="input-group mb-3 text-center">
+                    <select class="custom-select  ">
+                        <option default>Выберите урок</option>
+                        <option value="1">Урок 1</option>
+                        <option value="2">Урок 2</option>
+                    </select>
+                </div>
+                <div class="col"><b>Сейчас выбран урок № <a class='urok'></a></b></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="alert alert-primary text-center my-question" role="alert">
+            Очки: <span class='balls'></span><br>
+            <button type="button" class="btn btn-primary bals_del">Удалить очки</button>
+        </div>
+        <div class="text-center my-question " role="alert">
+            Что это за слово/выражение?
+        </div>
+    </div>
+
+
+    <div class="alert alert-secondary alert-slovo" role="alert">
+        <h4 class="alert-link slovo">START</h4>
+    </div>
+
+    <div class="container-lg mb-4">
+        <div class="row">
+            <div class="col">
+                <input type="text" autofocus class="form-control val" placeholder="Введите слово/фразу">
+            </div>
+            <div class="col text-center">
+                <button type="button" class="btn btn-primary proverka">Проверить</button>
+            </div>
+            <div class="col text-center out">
+                <i>подсказка появиться после<br> 3-х неверных попыток ввода</i>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+
+
+    <div class="clock"></div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
