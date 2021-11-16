@@ -77,7 +77,7 @@ body {
 }
 .input-group > .form-control, .input-group > .form-control-plaintext, .input-group > .custom-select, .input-group > .custom-file {
     flex:none;
-    width: 25%;
+    min-width: 200px;
 }
 .input-group {
     justify-content: center;
