@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "inEnglish": "He often plays computer games",
+        "translate": "Он часто играет в компьютерные игры"
+    },
+    {
+        "id": 2,
+        "inEnglish": "She feels so happy ",
+        "translate": "Она чувствует себя такой счастливой"
+    },
+    {
+        "id": 3,
+        "inEnglish": "I speak English",
+        "translate": "Я говорю по английски"
+    },
+    {
+        "id": 4,
+        "inEnglish": "She knows it",
+        "translate": "Она знает это"
+    },
+    {
+        "id": 5,
+        "inEnglish": "He does it every day",
+        "translate": "Он делает это каждый день"
+    },
+    {
+        "id": 6,
+        "inEnglish": "She goes to school",
+        "translate": "Она ходит в школу"
+    },
+    {
+        "id": 7,
+        "inEnglish": "He goes to work",
+        "translate": "Он ходит на работу"
+    },
+    {
+        "id": 8,
+        "inEnglish": "He often goes to the cinema",
+        "translate": "Он часто ходит в кино"
+    },
+    {
+        "id": 9,
+        "inEnglish": "She often goes to the park",
+        "translate": "Она часто ходит в парк"
+    },
+    {
+        "id": 10,
+        "inEnglish": "She does it very well",
+        "translate": "Она делает это очень хорошо"
+    },
+    {
+        "id": 11,
+        "inEnglish": "He has a house",
+        "translate": "У него есть дом"
+    },
+    {
+        "id": 12,
+        "inEnglish": "She has a car",
+        "translate": "У неё есть машина"
+    },
+    {
+        "id": 13,
+        "inEnglish": "He has a dog",
+        "translate": "У него есть собака"
+    },
+    {
+        "id": 14,
+        "inEnglish": "She has a cat",
+        "translate": "У неё есть кошка"
+    },
+    {
+        "id": 15,
+        "inEnglish": "He has money",
+        "translate": "У него есть деньги"
+    },
+    {
+        "id": 16,
+        "inEnglish": "He has dollars",
+        "translate": "У него есть доллары"
+    },
+    {
+        "id": 17,
+        "inEnglish": "She has interesting ideas",
+        "translate": "У неё есть интересные идеи"
+    },
+    {
+        "id": 18,
+        "inEnglish": "He has an offer",
+        "translate": "У него есть предложение"
+    },
+    {
+        "id": 19,
+        "inEnglish": "She watches TV",
+        "translate": "Она смотрит телевизор"
+    },
+    {
+        "id": 20,
+        "inEnglish": "He teaches English",
+        "translate": "Он преподаёт английский"
+    },
+    {
+        "id": 21,
+        "inEnglish": "He misses you",
+        "translate": "Он скучает по тебе"
+    },
+    {
+        "id": 22,
+        "inEnglish": "He always finishes his work on time",
+        "translate": "Он всегда заканчивает свою работу вовремя"
+    },
+    {
+        "id": 23,
+        "inEnglish": "She usually relaxes at home",
+        "translate": "Она обычно отдыхает дома"
+    },
+    {
+        "id": 24,
+        "inEnglish": "She usually has a rest at home",
+        "translate": "Она обычно отдыхает дома"
+    },
+    {
+        "id": 25,
+        "inEnglish": "He tries to do it",
+        "translate": "Он пытается сделать это"
+    },
+    {
+        "id": 26,
+        "inEnglish": "She tries to learn English",
+        "translate": "Она пытается выучить английский"
+    },
+    {
+        "id": 27,
+        "inEnglish": "He tries to find a job",
+        "translate": "Он пытается найти работу"
+    },
+    {
+        "id": 28,
+        "inEnglish": "He sometimes plays computer games",
+        "translate": "Он иногда играет в компьютерные игры"
+    }
+]

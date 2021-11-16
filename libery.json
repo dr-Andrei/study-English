@@ -62,5 +62,33 @@
     {
         "inEnglish": "get",
         "translate": "получать"
+    },
+    {
+        "inEnglish": "noun",
+        "translate": "существительное"
+    },
+    {
+        "inEnglish": "countable",
+        "translate": "исчисляемое"
+    },
+    {
+        "inEnglish": "count",
+        "translate": "считать"
+    },
+    {
+        "inEnglish": "relax",
+        "translate": "отдыхать"
+    },
+    {
+        "inEnglish": "have a rest",
+        "translate": "отдыхать"
+    },
+    {
+        "inEnglish": "try",
+        "translate": "пытаться"
+    },
+    {
+        "inEnglish": "learn",
+        "translate": "учить"
     }
 ]

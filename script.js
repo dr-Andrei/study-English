@@ -14,6 +14,7 @@ function f1() {
     let val1 = +document.querySelector('.custom-select').value;
     if (val1 == '1') url = 'frazi1.json';
     if (val1 == '2') url = 'frazi2.json';
+    if (val1 == '3') url = 'frazi3.json';
 
     localStorage.setItem('url', url);
     f2(url)
@@ -23,6 +24,7 @@ function f1() {
 function f2(url) {
     if (url == 'frazi1.json') document.querySelector('.urok').textContent = '1'
     if (url == 'frazi2.json') document.querySelector('.urok').textContent = '2'
+    if (url == 'frazi3.json') document.querySelector('.urok').textContent = '3'
 
     fetch(url)
         .then(response => response.json())
