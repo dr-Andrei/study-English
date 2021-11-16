@@ -68,8 +68,10 @@ function f2(url) {
                     location.reload()
                 }
                 else if (i == 3) {
+                    setTimeout(() => location.reload(), 2500);
                     document.querySelector('.out').innerHTML = `<h3>${data[rand].translate}</h3>`;
                     alert('Теперь вы знаете правильный ответ!')
+
                 }
                 else {
                     alert('вы неправы!')

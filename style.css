@@ -8,8 +8,9 @@
     background: #B5FFC9;
 }
 
-.form-control{
+input.form-control{
     padding: 1.5rem;
+    font-size: 20px;
 }
 .btn  {
     padding: 0.3rem 4rem;
@@ -26,6 +27,7 @@ a {
 }
 .proverka {
     font-size: 22px;
+    padding: 8px 30px;
 }
 .clock-area {
     background: #ec9494;
@@ -75,7 +77,7 @@ body {
 }
 .input-group > .form-control, .input-group > .form-control-plaintext, .input-group > .custom-select, .input-group > .custom-file {
     flex:none;
-    width: 35%;
+    width: 25%;
 }
 .input-group {
     justify-content: center;
@@ -83,4 +85,9 @@ body {
 .alert-slovo {
     border-radius: 20px;
     font-size: 2rem;
+}
+.custom-select {
+    background: #fff;
+    text-align: center;
+    padding: 2px 0;
 }
