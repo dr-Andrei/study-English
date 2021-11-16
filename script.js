@@ -70,9 +70,9 @@ function f2(url) {
                     location.reload()
                 }
                 else if (i == 3) {
-                    setTimeout(() => location.reload(), 2500);
                     document.querySelector('.out').innerHTML = `<h3>${data[rand].translate}</h3>`;
-                    alert('Теперь вы знаете правильный ответ!')
+                    alert('Теперь вы знаете правильный ответ!');
+                    t2();
 
                 }
                 else {
@@ -87,6 +87,14 @@ function f2(url) {
             })
             document.querySelector('.proverka').onclick = t1;
 
+            function t2() {
+                document.querySelector('.proverka').textContent = "Далее";
+                document.addEventListener('keydown', (e) => {
+                    if (e.code == "Enter") {
+                        location.reload();
+                    };
+                })
+            }
         })
 
 }
