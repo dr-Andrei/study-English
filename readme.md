@@ -1,2 +1,2 @@
 # Сайт по изучению английского языка
-<img src="foto.JPG">
+<img src="foto2.JPG">
