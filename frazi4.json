@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "inEnglish": "This lesson seems interesting",
+        "translate": "Этот урок кажется интересным"
+    },
+    {
+        "id": 2,
+        "inEnglish": "These lessons seem very useful",
+        "translate": "Эти уроки кажутся очень полезными"
+    },
+    {
+        "id": 3,
+        "inEnglish": "This lesson helps me",
+        "translate": "Этот урок помогает мне"
+    },
+    {
+        "id": 4,
+        "inEnglish": "These lessons help me",
+        "translate": "Эти уроки помогают мне"
+    },
+    {
+        "id": 5,
+        "inEnglish": "Your lessons really help",
+        "translate": "Твои уроки реально помогают"
+    },
+    {
+        "id": 6,
+        "inEnglish": "My brother wants it",
+        "translate": "Мой брат хочет это"
+    },
+    {
+        "id": 7,
+        "inEnglish": "My sister lives there",
+        "translate": "Моя сестра живёт там"
+    },
+    {
+        "id": 8,
+        "inEnglish": "My parents know it",
+        "translate": "Мои родители знают это"
+    },
+    {
+        "id": 9,
+        "inEnglish": "My friend has a car",
+        "translate": "У моего друга есть машина"
+    },
+    {
+        "id": 10,
+        "inEnglish": "My boss knows everything",
+        "translate": "Мой бос знает всё"
+    },
+    {
+        "id": 11,
+        "inEnglish": "My boss usually reads all the documents",
+        "translate": "Мой бос обычно читает все документы"
+    },
+    {
+        "id": 12,
+        "inEnglish": "My boss usually checks all the information",
+        "translate": "Мой бос обычно проверяет всю информацию"
+    },
+    {
+        "id": 13,
+        "inEnglish": "I understand everything",
+        "translate": "Я всё понимаю"
+    },
+    {
+        "id": 14,
+        "inEnglish": "Our mother thinks the same",
+        "translate": "Наша мама думает также"
+    },
+    {
+        "id": 15,
+        "inEnglish": "Their ideas seem so interesting",
+        "translate": "Их идеи кажутся такими интересными"
+    },
+    {
+        "id": 16,
+        "inEnglish": "His father has a car",
+        "translate": "У его отца есть машина"
+    },
+    {
+        "id": 17,
+        "inEnglish": "Her brother often says it",
+        "translate": "Её брат часто говорит это"
+    },
+    {
+        "id": 18,
+        "inEnglish": "He has a company",
+        "translate": "У него есть компания"
+    },
+    {
+        "id": 19,
+        "inEnglish": "Its profit seems so big",
+        "translate": "Её прибыль кажется такой большой"
+    },
+    {
+        "id": 20,
+        "inEnglish": "My girlfriend feels happy",
+        "translate": "Моя девушка чувствует себя счастливой"
+    },
+    {
+        "id": 21,
+        "inEnglish": "My boyfriend loves me very much",
+        "translate": "Мой парень любит меня очень сильно"
+    },
+    {
+        "id": 22,
+        "inEnglish": "My friend always supports my",
+        "translate": "Мой друг всегда поддерживает меня"
+    },
+    {
+        "id": 23,
+        "inEnglish": "My friends sometimes say it",
+        "translate": "Мои друзья иногда говорят это"
+    },
+    {
+        "id": 24,
+        "inEnglish": "My best friend always helps my",
+        "translate": "Мой лучший друг всегда помогает мне"
+    },
+    {
+        "id": 25,
+        "inEnglish": "My teacher usually comes to work",
+        "translate": "Мой учитель обычно приходит на работу"
+    },
+    {
+        "id": 26,
+        "inEnglish": "My father usually comes home late",
+        "translate": "Мой отец обычно приходит домой поздно"
+    }
+]
