@@ -5,7 +5,7 @@ document.querySelector('.bals_del').onclick = () => {
 }
 let url = ''
 localStorage.getItem('url') ? url = localStorage.getItem('url') : url = 'frazi1.json'
-f2(url)
+f2(url);
 
 //document.querySelector('.form-done').onclick = f1
 document.querySelector('.custom-select').onchange = f1
