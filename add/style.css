@@ -1,0 +1,65 @@
+body {
+    font-size: 22px;
+    background-color: #FF9C40;
+}
+label {
+    display: block;
+    margin-bottom: 20px;
+}
+input {
+    width: 80%;
+    min-width: 500px;
+    padding: 10px;
+    border-radius: 4px;
+    border:1px solid black;
+    display: block;
+    margin: 10px;
+}
+input.nameFile {
+    width: 20%;
+    min-width: 200px;
+}
+button.submit {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,0.2);
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    background: #1c8abf;
+}
+button.submit:active {
+    box-shadow: 0 0 2px black;
+}
+.massValues {
+    border:3px solid rgba(0,0,0,0.2);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px black;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.valueElement {
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+
+}
+button.add {
+    margin-left: 20px;
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #bae6f7;
+}
+button.add:active {
+    box-shadow: 0px 0px 3px black;
+}
