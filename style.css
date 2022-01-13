@@ -2,13 +2,7 @@ body {
     background-color: #FF9C40;
    
 }
-.i1 {
-    position: absolute;
-    height: 99%;
-    width: 90%;
-    opacity: .1;
-    
-}
+
 .my-question {
     font-size: 36px;
     font-weight: 600;
@@ -101,3 +95,8 @@ a {
     text-align: center;
     padding: 2px 0;
 }
+/*отмена или изменение стилей Bootstrap*/
+.mb-5, .my-5 {
+    margin-bottom: 0 !important;
+}
+
